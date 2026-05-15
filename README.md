@@ -51,7 +51,6 @@ This dashboard provides meaningful insights into saffron production trends and h
 * Power Query for Data Transformation
 * Data Cleaning & Preprocessing
 * Data Visualization Techniques
-* Interactive Dashboard Development
 
 ---
 
